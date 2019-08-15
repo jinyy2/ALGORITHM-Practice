@@ -31,5 +31,6 @@ public class No_11047{
 				K %= arr[j];
 		}
 		System.out.println(cnt);
+		sc.close();
 	}
 }

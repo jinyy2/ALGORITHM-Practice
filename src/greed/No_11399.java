@@ -25,5 +25,6 @@ public class No_11399 {
 			sum += arr[x]*(num-x);
 		}
 		System.out.println(sum);
+		sc.close();
 	}
 }
